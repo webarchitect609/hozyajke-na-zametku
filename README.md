@@ -11,6 +11,7 @@
 2021
 ----
 
+- 2021-09-22 [SSH в Windows 10](/zametki/2021-09-22_windows10_ssh.md)
 - 2021-08-11 [tail + grep: следим за логом, фильтруя лишнее](/zametki/2021-08-11_tail-n-grep.md)
 - 2021-05-03 [Jet Brains: Code With Me](/zametki/2021-05-03_code-with-me.md)
 - 2021-04-14 [Не доверяйте fuserId чуть чаще, чем никогда!](/zametki/2021-04-14_never_trust_fuser_id.md)

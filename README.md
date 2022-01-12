@@ -8,6 +8,11 @@
 >
 > _Watch => Custom => Releases => Apply_
 
+2022
+----
+
+- 2022-01-12 [Игнорирование TimeZone в DateTime и DateTimeImmutable](/zametki/2022-01-12_php_datetime_timezone_ignore.md)
+
 2021
 ----
 
